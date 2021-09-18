@@ -2,4 +2,4 @@
 
 This is a simple static web, built with Html and CSS, focusing on the 'responsive' aspect of it
 
-My very *first* project ever
+My very <b>first</b> project ever
